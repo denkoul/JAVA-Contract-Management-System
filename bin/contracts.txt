@@ -1,0 +1,185 @@
+CONTRACT_LIST
+{
+    CONTRACT
+    {
+        TYPE 1
+        ID 20171
+        SERVICE_NAME Econ Plus!
+        NAME Nikos Papadopoulos
+        NUMBER 6930236549
+        DATE 7/2/2017
+        WOP Cash
+        DATA_CONSUMED 0.0
+        SMS_CONSUMED 0
+        TO_HOME_MINUTES_CONSUMED 0.0
+        TO_MOBILE_MINUTES_CONSUMED 0.0
+    }
+    CONTRACT
+    {
+        TYPE 1
+        ID 20172
+        SERVICE_NAME Econ Plus!
+        NAME Giannis Apostolou
+        NUMBER 6930736549
+        DATE 7/3/2017
+        WOP Cash
+        DATA_CONSUMED 0.0
+        SMS_CONSUMED 0
+        TO_HOME_MINUTES_CONSUMED 0.0
+        TO_MOBILE_MINUTES_CONSUMED 0.0
+    }
+    CONTRACT
+    {
+        TYPE 1
+        ID 20173
+        SERVICE_NAME Unlimited surfing!
+        NAME Kostas Panos
+        NUMBER 6940236549
+        DATE 9/2/2017
+        WOP Cash
+        DATA_CONSUMED 0.0
+        SMS_CONSUMED 0
+        TO_HOME_MINUTES_CONSUMED 0.0
+        TO_MOBILE_MINUTES_CONSUMED 0.0
+    }
+    CONTRACT
+    {
+        TYPE 1
+        ID 20174
+        SERVICE_NAME Unlimited surfing!
+        NAME Maria Kyriakou
+        NUMBER 6950236549
+        DATE 15/1/2017
+        WOP Credit
+        DATA_CONSUMED 0.0
+        SMS_CONSUMED 0
+        TO_HOME_MINUTES_CONSUMED 0.0
+        TO_MOBILE_MINUTES_CONSUMED 0.0
+    }
+    CONTRACT
+    {
+        TYPE 2
+        ID 20175
+        SERVICE_NAME Contract Uni pack
+        NAME Christos Kollias
+        NUMBER 6930236449
+        DATE 13/1/2017
+        WOP Cash
+        DATA_CONSUMED 0.0
+        SMS_CONSUMED 0
+        TO_HOME_MINUTES_CONSUMED 0.0
+        TO_MOBILE_MINUTES_CONSUMED 0.0
+    }
+    CONTRACT
+    {
+        TYPE 2
+        ID 20176
+        SERVICE_NAME Contract Uni pack
+        NAME Nikos Karras
+        NUMBER 6990236549
+        DATE 17/12/2016
+        WOP Cash
+        DATA_CONSUMED 0.0
+        SMS_CONSUMED 0
+        TO_HOME_MINUTES_CONSUMED 0.0
+        TO_MOBILE_MINUTES_CONSUMED 0.0
+    }
+    CONTRACT
+    {
+        TYPE 2
+        ID 20177
+        SERVICE_NAME Contract Unlimited
+        NAME Anastasia Panagiotou
+        NUMBER 6900236549
+        DATE 9/2/2017
+        WOP Credit
+        DATA_CONSUMED 0.0
+        SMS_CONSUMED 0
+        TO_HOME_MINUTES_CONSUMED 0.0
+        TO_MOBILE_MINUTES_CONSUMED 0.0
+    }
+    CONTRACT
+    {
+        TYPE 2
+        ID 20178
+        SERVICE_NAME Contract Unlimited
+        NAME Katerina Drapa
+        NUMBER 6933236549
+        DATE 15/2/2017
+        WOP Cash
+        DATA_CONSUMED 0.0
+        SMS_CONSUMED 0
+        TO_HOME_MINUTES_CONSUMED 0.0
+        TO_MOBILE_MINUTES_CONSUMED 0.0
+    }
+    CONTRACT
+    {
+        TYPE 3
+        ID 20179
+        SERVICE_NAME Card Uni pack
+        NAME Nasia Vlamida
+        NUMBER 6932236549
+        DATE 7/2/2017
+        WOP Cash
+        DATA_CONSUMED 0.0
+        SMS_CONSUMED 0
+        TO_HOME_MINUTES_CONSUMED 0.0
+        TO_MOBILE_MINUTES_CONSUMED 0.0
+    }
+    CONTRACT
+    {
+        TYPE 3
+        ID 20180
+        SERVICE_NAME Card Uni pack
+        NAME Nikos Sfakianakis
+        NUMBER 6931236549
+        DATE 12/3/2017
+        WOP Credit
+        DATA_CONSUMED 0.0
+        SMS_CONSUMED 0
+        TO_HOME_MINUTES_CONSUMED 0.0
+        TO_MOBILE_MINUTES_CONSUMED 0.0
+    }
+    CONTRACT
+    {
+        TYPE 3
+        ID 20181
+        SERVICE_NAME Card Unlimited pack
+        NAME Katerina Alivioti
+        NUMBER 6933296549
+        DATE 1/4/2017
+        WOP Cash
+        DATA_CONSUMED 0.0
+        SMS_CONSUMED 0
+        TO_HOME_MINUTES_CONSUMED 0.0
+        TO_MOBILE_MINUTES_CONSUMED 0.0
+    }
+    CONTRACT
+    {
+        TYPE 3
+        ID 20182
+        SERVICE_NAME Card Unlimited pack
+        NAME Fotini Krithara
+        NUMBER 6930206549
+        DATE 9/1/2017
+        WOP Cash
+        DATA_CONSUMED 0.0
+        SMS_CONSUMED 0
+        TO_HOME_MINUTES_CONSUMED 0.0
+        TO_MOBILE_MINUTES_CONSUMED 0.0
+    }
+    CONTRACT
+    {
+        TYPE 3
+        ID 20183
+        SERVICE_NAME Card Unlimited pack
+        NAME giannis enoma
+        NUMBER 6930206550
+        DATE 16/05/2017
+        WOP Cash
+        DATA_CONSUMED 0.0
+        SMS_CONSUMED 0
+        TO_HOME_MINUTES_CONSUMED 0.0
+        TO_MOBILE_MINUTES_CONSUMED 0.0
+    }
+}
